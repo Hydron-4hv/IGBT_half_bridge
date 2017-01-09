@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:35:31 On 09/01/2017
+
+Output: Export STEP Model of complete PCB
+Type  : ExportSTEP
+From  : Variant [DUAL_BRIDGE_THD_Rg_HORIZONTAL_IGBT] of PCB Document [IGBT_half_bridge.PcbDoc]
+   Generated File[Export STEP Model of complete PCB_IGBT_half_bridge-(DUAL_BRIDGE_THD_Rg_HORIZONTAL_IGBT).step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:35:36 On 09/01/2017

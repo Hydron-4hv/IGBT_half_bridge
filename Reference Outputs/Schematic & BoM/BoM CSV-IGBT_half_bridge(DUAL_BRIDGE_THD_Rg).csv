@@ -1,0 +1,12 @@
+Designator,Value,Description,Fitted,Footprint,LibRef,Quantity
+
+"C1","5uF 800V","Capacitor","Fitted","B32774 5uF 800V","Cap","1"
+"C2, C3","390uF","WCAP-AIG8 Aluminum Electrolytic Capacitors, 390uF","Fitted","WCAP-AIG8_30x46","WCAP-AIG8, 861011485019","2"
+"D1, D3, D5, D7","","SS26 Schottky rectifier","Fitted","DO-214AA_(SMB-J-BEND)_UNI","SS26","4"
+"D2, D4, D6, D8","","WE-TVSP Power TVS Diode, bidirectional, 600 W, 24 VDC","Fitted","DO-214AA_Bidirectional","WE-TVSP DO-214AA, 824521241","4"
+"HS1, HS2","","","Fitted","SK 481 37.5, SK 481 37.5_FLIP","SK_481_37.5","2"
+"J1","","WR-BHD 2.54mm Male Box Header","Fitted","61202021621","61202021621","1"
+"L1, L2, L3, L4","32O","WE-CBF SMD EMI Suppression Ferrite Bead, 1206, 32O","Fitted","WE-CBF_1206_High Speed","WE-CBF, 7427921","4"
+"Q1, Q2, Q3, Q4","","IGBT, TO-247, Vertical","Fitted","TO-247","TO-247_IGBT_V","4"
+"R1, R2, R13, R18","3R3 2W","Resistor","Fitted","Res_Radial_2W","Res2","4"
+"R3, R4, R7, R8, R11, R12, R16, R17","5R6 1W","Resistor","Not Fitted","RES_2512","Res2","0"
