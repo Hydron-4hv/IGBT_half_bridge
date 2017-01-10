@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for IGBT_half_bridge
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -126,7 +126,7 @@ UniqueID=4314BEB5-7BEC-436B-9EF5-FF3F3443E4E9
 Description=SINGLE_BRIDGE_SMD_Rg_NO_ELEC
 AllowFabrication=0
 ParameterCount=0
-VariationCount=18
+VariationCount=21
 Variation1=Designator=Q4|UniqueId=\MANUPYQX|Kind=1|AlternatePart= 
 Variation2=Designator=D8|UniqueId=\KWTGCMTY|Kind=1|AlternatePart= 
 Variation3=Designator=D7|UniqueId=\WYQIEVJT|Kind=1|AlternatePart= 
@@ -145,12 +145,15 @@ Variation15=Designator=L4|UniqueId=\QKQEHOLC|Kind=1|AlternatePart=
 Variation16=Designator=L3|UniqueId=\XEBFPRAQ|Kind=1|AlternatePart= 
 Variation17=Designator=C2|UniqueId=\LQJUASLM|Kind=1|AlternatePart= 
 Variation18=Designator=C3|UniqueId=\QMQIFSMO|Kind=1|AlternatePart= 
+Variation19=Designator=C8|UniqueId=\VJPJFUGV|Kind=1|AlternatePart= 
+Variation20=Designator=C7|UniqueId=\HUISVHFN|Kind=1|AlternatePart= 
+Variation21=Designator=C5|UniqueId=\XSWALFFC|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant3]
 UniqueID=1EB68C7E-5E97-47F2-81E1-7B429019E989
 Description=DUAL_BRIDGE_THD_Rg_HORIZONTAL_IGBT
-AllowFabrication=1
+AllowFabrication=0
 ParameterCount=0
 VariationCount=14
 Variation1=Designator=R3|UniqueId=\JPAFLIXH|Kind=1|AlternatePart= 
@@ -161,7 +164,7 @@ Variation5=Designator=R11|UniqueId=\QYTYGTRK|Kind=1|AlternatePart=
 Variation6=Designator=R12|UniqueId=\ULJUGCIS|Kind=1|AlternatePart= 
 Variation7=Designator=R16|UniqueId=\HTGCSWCE|Kind=1|AlternatePart= 
 Variation8=Designator=R17|UniqueId=\MATMFTLL|Kind=1|AlternatePart= 
-Variation9=Designator=Q1|UniqueId=\OVKODUFF|Kind=2|AlternatePart= |AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=QCW Bridge PCBA.SchLib|AltLibLink_SymbolReference=TO-247_IGBT_V|AltLibLink_DesignItemID=TO-247_IGBT_H|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=QCW Bridge PCBA.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=TO-247_Horizontal|AltLibLink_IsSameFootprint=False
+Variation9=Designator=Q1|UniqueId=\OVKODUFF|Kind=2|AlternatePart= |AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TV_Altium_library.SchLib|AltLibLink_SymbolReference=TO-247_IGBT_V|AltLibLink_DesignItemID=TO-247_IGBT_H|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TV_Altium_library.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=TO-247_Horizontal|AltLibLink_IsSameFootprint=False
 ParamVariation1=ParameterName=Comment|VariantValue= 
 ParamDesignator1=Q1
 ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
@@ -180,7 +183,7 @@ ParamVariation8=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator8=Q1
 ParamVariation9=ParameterName=Simulation|VariantValue= 
 ParamDesignator9=Q1
-Variation10=Designator=Q2|UniqueId=\MRUQYOSA|Kind=2|AlternatePart= |AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=QCW Bridge PCBA.SchLib|AltLibLink_SymbolReference=TO-247_IGBT_V|AltLibLink_DesignItemID=TO-247_IGBT_H|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=QCW Bridge PCBA.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=TO-247_Horizontal|AltLibLink_IsSameFootprint=False
+Variation10=Designator=Q2|UniqueId=\MRUQYOSA|Kind=2|AlternatePart= |AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TV_Altium_library.SchLib|AltLibLink_SymbolReference=TO-247_IGBT_V|AltLibLink_DesignItemID=TO-247_IGBT_H|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TV_Altium_library.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=TO-247_Horizontal|AltLibLink_IsSameFootprint=False
 ParamVariation10=ParameterName=Comment|VariantValue= 
 ParamDesignator10=Q2
 ParamVariation11=ParameterName=Component Kind|VariantValue=Standard
@@ -199,7 +202,7 @@ ParamVariation17=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator17=Q2
 ParamVariation18=ParameterName=Simulation|VariantValue= 
 ParamDesignator18=Q2
-Variation11=Designator=Q3|UniqueId=\XLFBAMHM|Kind=2|AlternatePart= |AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=QCW Bridge PCBA.SchLib|AltLibLink_SymbolReference=TO-247_IGBT_V|AltLibLink_DesignItemID=TO-247_IGBT_H|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=QCW Bridge PCBA.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=TO-247_Horizontal|AltLibLink_IsSameFootprint=False
+Variation11=Designator=Q3|UniqueId=\XLFBAMHM|Kind=2|AlternatePart= |AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TV_Altium_library.SchLib|AltLibLink_SymbolReference=TO-247_IGBT_V|AltLibLink_DesignItemID=TO-247_IGBT_H|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TV_Altium_library.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=TO-247_Horizontal|AltLibLink_IsSameFootprint=False
 ParamVariation19=ParameterName=Comment|VariantValue= 
 ParamDesignator19=Q3
 ParamVariation20=ParameterName=Component Kind|VariantValue=Standard
@@ -218,7 +221,7 @@ ParamVariation26=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator26=Q3
 ParamVariation27=ParameterName=Simulation|VariantValue= 
 ParamDesignator27=Q3
-Variation12=Designator=Q4|UniqueId=\MANUPYQX|Kind=2|AlternatePart= |AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=QCW Bridge PCBA.SchLib|AltLibLink_SymbolReference=TO-247_IGBT_V|AltLibLink_DesignItemID=TO-247_IGBT_H|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=QCW Bridge PCBA.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=TO-247_Horizontal|AltLibLink_IsSameFootprint=False
+Variation12=Designator=Q4|UniqueId=\MANUPYQX|Kind=2|AlternatePart= |AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TV_Altium_library.SchLib|AltLibLink_SymbolReference=TO-247_IGBT_V|AltLibLink_DesignItemID=TO-247_IGBT_H|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TV_Altium_library.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=TO-247_Horizontal|AltLibLink_IsSameFootprint=False
 ParamVariation28=ParameterName=Comment|VariantValue= 
 ParamDesignator28=Q4
 ParamVariation29=ParameterName=Component Kind|VariantValue=Standard
@@ -287,7 +290,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for IGBT_half_bridge
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -889,46 +892,6 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Ansoft Neutral
-OutputName10=Ansoft Neutral (AutoPCB)
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=HyperLynx
-OutputName11=HyperLynx (AutoPCB)
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=Orcad SDT Schematic
-OutputName12=Orcad SDT Schematic (AutoSCH)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Orcad v7 Capture Design
-OutputName13=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=P-CAD ASCII
-OutputName14=P-CAD ASCII (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD V16 Schematic Design
-OutputName15=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Protel PCB 2.8 ASCII
-OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

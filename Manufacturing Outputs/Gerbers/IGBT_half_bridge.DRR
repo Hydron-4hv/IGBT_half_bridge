@@ -1,15 +1,15 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: IGBT_half_bridge.PcbDoc   09/01/2017  15:48:35
+NCDrill File Report For: IGBT_half_bridge.PcbDoc   10/01/2017  17:05:04
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
-ASCII Plated RoundHoles File : IGBT_half_bridge-Plated.TXT
+ASCII RoundHoles File : IGBT_half_bridge.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      20mil (0.5mm)                                             Round             356       PTH        47.60inch (1209.11mm)
+T1      20mil (0.5mm)                                             Round             367       PTH        50.46inch (1281.81mm)
 T2      33mil (0.85mm)                                            Round             8         PTH        2.83inch (72.00mm)
-T3      39mil (1mm)                                               Round             3         PTH        1.48inch (37.50mm)
+T3      39mil (1mm)                                               Round             7         PTH        2.67inch (67.81mm)
 T4      43mil (1.1mm)                                             Round             20        PTH        1.90inch (48.26mm)
 T5      63mil (1.6mm)                                             Round             12        PTH        2.67inch (67.90mm)
 T6      79mil (2mm)                                               Round             4         PTH        2.20inch (56.00mm)
@@ -17,10 +17,12 @@ T7      126mil (3.2mm)                                            Round         
 T8      177mil (4.5mm)                                            Round             23        PTH        16.93inch (430.00mm)
 T9      250mil (6.35mm)                                           Round             4         PTH        2.24inch (57.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              434
+Totals                                                                              449
 
-Two holes at same point : 12
+Two holes at same point : 14
 -----------------------
+1358,98
+1358,689
 2461,-1337
 2461,-1122
 2461,-907

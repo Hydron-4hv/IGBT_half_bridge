@@ -1,7 +1,7 @@
 Output: NC Drill Files
 Type  : NC Drill
 From  : PCB Document [IGBT_half_bridge.PcbDoc]
-   Generated File[IGBT_half_bridge-Plated.TXT]
+   Generated File[IGBT_half_bridge.TXT]
    Generated File[IGBT_half_bridge.LDP]
    Generated File[IGBT_half_bridge.DRR]
 
@@ -9,4 +9,4 @@ From  : PCB Document [IGBT_half_bridge.PcbDoc]
 Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 15:48:36 On 09/01/2017
+Finished Output Generation At 17:05:04 On 10/01/2017

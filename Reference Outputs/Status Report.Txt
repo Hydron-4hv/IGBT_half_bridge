@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 15:34:45 On 09/01/2017
+Start Output Generation At 17:10:10 On 10/01/2017
 
 Output: BoM CSV
 Type  : BOM
-From  : Variant [DUAL_BRIDGE_THD_Rg_HORIZONTAL_IGBT] of Project [IGBT_half_bridge.PrjPcb]
-   Generated File[BoM CSV-IGBT_half_bridge(DUAL_BRIDGE_THD_Rg_HORIZONTAL_IGBT).csv]
+From  : Variant [DUAL_BRIDGE_THD_Rg] of Project [IGBT_half_bridge.PrjPcb]
+   Generated File[BoM CSV-IGBT_half_bridge(DUAL_BRIDGE_THD_Rg).csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 15:34:50 On 09/01/2017
+Finished Output Generation At 17:10:13 On 10/01/2017

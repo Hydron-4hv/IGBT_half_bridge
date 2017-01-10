@@ -2,11 +2,12 @@ Designator,Value,Description,Fitted,Footprint,LibRef,Quantity
 
 "C1","5uF 800V","Capacitor","Fitted","B32774 5uF 800V","Cap","1"
 "C2, C3","390uF","WCAP-AIG8 Aluminum Electrolytic Capacitors, 390uF","Not Fitted","WCAP-AIG8_30x46","WCAP-AIG8, 861011485019","0"
+"C4, C6, HS1, HS2","","","Fitted","2220C, 2220C, SK 481 37.5, SK 481 37.5_FLIP","Capacitor, Capacitor, SK_481_37.5, SK_481_37.5","4"
+"C5, C7, C8","","","Not Fitted","1812C, 1812C, Cap_multi_footprint","Capacitor","0"
 "D1, D3","","SS26 Schottky rectifier","Fitted","DO-214AA_(SMB-J-BEND)_UNI","SS26","2"
 "D2, D4","","WE-TVSP Power TVS Diode, bidirectional, 600 W, 24 VDC","Fitted","DO-214AA_Bidirectional","WE-TVSP DO-214AA, 824521241","2"
 "D5, D7","","SS26 Schottky rectifier","Not Fitted","DO-214AA_(SMB-J-BEND)_UNI","SS26","0"
 "D6, D8","","WE-TVSP Power TVS Diode, bidirectional, 600 W, 24 VDC","Not Fitted","DO-214AA_Bidirectional","WE-TVSP DO-214AA, 824521241","0"
-"HS1, HS2","","","Fitted","SK 481 37.5, SK 481 37.5_FLIP","SK_481_37.5","2"
 "J1","","WR-BHD 2.54mm Male Box Header","Fitted","61202021621","61202021621","1"
 "L1, L2","32O","WE-CBF SMD EMI Suppression Ferrite Bead, 1206, 32O","Fitted","WE-CBF_1206_High Speed","WE-CBF, 7427921","2"
 "L3, L4","32O","WE-CBF SMD EMI Suppression Ferrite Bead, 1206, 32O","Not Fitted","WE-CBF_1206_High Speed","WE-CBF, 7427921","0"
